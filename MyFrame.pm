@@ -1,7 +1,7 @@
 #####################################
 # Arabic Linux Quizer
 # Database by Linuxac.org
-# Perl by perl_sourcer@yahoo.com
+# Perl by Ali Al-Yassen
 # Our version 1.2
 #####################################
 use Wx 0.15 qw[:allclasses];
